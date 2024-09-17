@@ -23,7 +23,7 @@ Notetaker - Maya
 
 3) How individuals will be held accountable: 
 Please do your work
-If you fail to do so, you have to pay the other person $5?
+If you fail to do so, you have to pay the other person $5? Or make them listen to https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 4) How to handle conflict when it arises:
 1. Push and pull at differnet types
@@ -33,5 +33,6 @@ Personal conflict:
 
 **TO DO: 
 1. FINISH CONTENT
-2. ADD TABLE, LINK, AND HEADER
-3. CLAIRE PUSH AND PULL$$ **
+2. FIGURE OUT TABLE
+3. ADD TABLE, LINK, AND HEADER
+4. CLAIRE PUSH AND PULL$$ **
